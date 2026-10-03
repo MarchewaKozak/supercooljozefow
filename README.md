@@ -44,3 +44,11 @@ Pushing to `main` triggers Cloudflare Pages to rebuild and deploy automatically.
   user has reduced motion enabled.
 - All canvas elements are `aria-hidden="true"` and `pointer-events: none`.
 - Focus-visible outlines are preserved on the CTA button.
+
+---
+
+## Auto-deploy test
+
+This line was added to test the GitHub→Cloudflare Pages auto-deploy integration.
+If a new deployment appears in the Cloudflare Pages dashboard within a minute
+of this commit being pushed, the integration is working.

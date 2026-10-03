@@ -1,0 +1,15 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local deps (none currently, but future-proof)
+node_modules/
